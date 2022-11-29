@@ -1,8 +1,3 @@
-# Created by Octave 3.2.4, Sat Jan 11 17:02:06 2014 Horário brasileiro de verão <unknown@unknown>
-# name: ex1data2
-# type: matrix
-# rows: 47
-# columns: 3
  2.104 3 3.999
  1.6 3 3.299
  2.4 3 3.69
